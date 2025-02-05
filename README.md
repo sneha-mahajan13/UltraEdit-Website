@@ -25,12 +25,5 @@ Hey! Welcome to the Ultraedit Website! This project lets users download the Ultr
   - Borders: border-radius
 
 ## Getting Started
-
-1. Clone the repository to your local machine:
-   
-   git clone https://github.com/yourusername/ultraedit-website.git
-   
-
-2. Open the index.html and style.css file in your web browser.
-
-3. Explore the website and use the download links to get the software.
+1. Open the index.html and style.css file in your web browser.
+2. Explore the website and use the download links to get the software.
